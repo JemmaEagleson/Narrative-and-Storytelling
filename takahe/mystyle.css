@@ -1,0 +1,142 @@
+   
+body {
+    background-color: #99D864;  
+    color: white;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 10px;
+    align-content: center;
+        }
+
+.title{
+    margin: 0;
+    padding: 10;
+}
+
+
+
+    h1 {
+    font-family: "Cabin Condensed" ;
+    font-size: 40px;
+    color: white;
+    text-align: left;
+    font-weight: 400;
+    letter-spacing: 3px;
+    background: #99D864;
+    margin: 30;
+    padding-bottom: px;
+    }
+
+    h2 {
+    font-family: "Avenir Next" ;
+    font-weight: 400;
+    color: white;
+    letter-spacing: 1px;
+    font-size: 30px;
+    }
+
+    p {
+    font-family: "Avenir Next" ;  
+    color:  white;   
+    font-weight: 100;
+    font-size: 16px;
+    }
+
+footer{
+    font-family: "Avenir Next" ;  
+    color:  white;   
+    font-weight: 100;
+    font-size: 8px;
+    text-align: center;
+    
+    
+}
+ nav ul {
+        font-family: "Avenir Next";
+        font-weight: 40px;
+        text-align: center;
+        list-style-type: none;
+        color: 99D864;
+        }
+        
+        nav ul li {
+            display: inline;
+            margin: 25px;
+        }
+        nav {
+            margin: 15px;
+            border-top: 3px solid #ffffff;
+            border-bottom: 3px solid #ffffff;
+        }
+
+  a {
+        color: white;
+        text-decoration: none;
+        letter-spacing: 1px;
+        font-size: 15px;
+        font-style: normal
+            
+        }
+    
+    a:hover {
+        text-decoration: none;
+        color: #389FB8 ;        
+        }
+
+#gropy{
+    width: 100%;
+    height: auto;
+	visibility: hidden;
+    align-content: center;
+    padding-top: 25px;
+}
+
+img[src*="takahe"] {
+    padding: inherit;
+     display: inline-block;
+        width: 100%;
+    height: auto;
+}
+
+blockquote{
+     font-family: "Avenir Next" ;  
+    font-weight: 400;
+    font-size: 20px;
+    color: #FF4456;
+    
+}
+
+#fast{
+    color: white;
+    font-family: "Avenir Next" ; 
+    font-weight: 100;
+    font-size: 16px;
+    width: 100%;
+    height: auto;
+    
+}
+
+img[src*="bird"] {
+    padding: inherit;
+     display: inline-block;
+        width: 50%;
+    height: auto;
+}
+
+img {
+    margin: 0 auto;
+    display: block;
+padding-top: 20px;
+padding-bottom: 20px;
+}
+
+
+img[src*="Line + Triangle 8 + Triangle 9"] {
+    padding: inherit;
+     display: inline-block;
+     width: 100%;
+    height: auto;
+}
+
+
+}
