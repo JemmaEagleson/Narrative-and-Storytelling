@@ -1,5 +1,4 @@
 # Narrative and Storytelling
-[Webpage](http://jemmaeagleson.github.io/Narrative-and-Storytelling/takahe/index.html)
 
 ##Style Tile
 ![](https://github.com/JemmaEagleson/Narrative-and-Storytelling/blob/master/IMAGES/style%20tile.png?raw=true)
@@ -19,3 +18,6 @@
 ![](https://github.com/JemmaEagleson/Narrative-and-Storytelling/blob/master/IMAGES/B11.png?raw=true)
 ![](https://github.com/JemmaEagleson/Narrative-and-Storytelling/blob/master/IMAGES/B12.png?raw=true)
 ![](https://github.com/JemmaEagleson/Narrative-and-Storytelling/blob/master/IMAGES/Artboard%205.png?raw=true)
+
+##Link to Webpage
+[Takahe Website](http://jemmaeagleson.github.io/Narrative-and-Storytelling/takahe/index.html)
