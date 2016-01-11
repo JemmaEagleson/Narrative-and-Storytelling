@@ -1,5 +1,6 @@
 # Narrative and Storytelling
-
+##Style Tile
+![](https://github.com/JemmaEagleson/Narrative-and-Storytelling/blob/master/IMAGES/style%20tile.png?raw=true)
 ##Homescreen Icon
 ![Icon](https://github.com/JemmaEagleson/Narrative-and-Storytelling/blob/master/IMAGES/ICON.png?raw=true)
 
